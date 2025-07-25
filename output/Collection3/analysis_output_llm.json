@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-25T06:07:52.663747"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Pancakes",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "1 cup all-purpose flour",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "2 tablespoons sugar",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "1 teaspoon baking powder",
+      "importance_rank": 5,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Pancakes",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Ingredients:",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "1 cup all-purpose flour",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "2 tablespoons sugar",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "1 teaspoon baking powder",
+      "page_number": 2
+    }
+  ]
+}

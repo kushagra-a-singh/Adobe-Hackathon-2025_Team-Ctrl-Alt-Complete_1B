@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-25T06:13:33.061988"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Remove from heat and let sit for a few minutes.",
+      "importance_rank": 1,
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Bake for 60 minutes or until a toothpick inserted into the center comes out clean.",
+      "importance_rank": 2,
+      "page_number": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.",
+      "importance_rank": 3,
+      "page_number": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "In a food processor, combine dates, mixed nuts, dried fruit, and honey.",
+      "importance_rank": 4,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Simmer for a few minutes until heated through.",
+      "importance_rank": 5,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Remove from heat and let sit for a few minutes.",
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Bake for 60 minutes or until a toothpick inserted into the center comes out clean.",
+      "page_number": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.",
+      "page_number": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "In a food processor, combine dates, mixed nuts, dried fruit, and honey.",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Simmer for a few minutes until heated through.",
+      "page_number": 2
+    }
+  ]
+}
